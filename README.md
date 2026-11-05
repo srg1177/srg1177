@@ -2,14 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/srg1177">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Senior+Systems+%2F+DevOps+Engineer;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+GitOps;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;Automating+everything+since+2020" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=Senior+DevOps+Engineer;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+GitOps;AWS+%E2%80%A2+Azure+%E2%80%A2+GCP;Automating+everything" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Yerevan,_Armenia-0e75b6?style=flat" alt="Location" />
-  <img src="https://img.shields.io/badge/Experience-6%2B_years-success?style=flat" alt="Experience" />
-  <img src="https://komarev.com/ghpvc/?username=srg1177&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/📍_Yerevan,_Armenia-0e75b6?style=flat" alt="Location" />  <img src="https://komarev.com/ghpvc/?username=srg1177&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -21,7 +19,7 @@
 
 ### 🧑‍💻 About me
 
-I'm a **DevOps / Systems Engineer** with 6+ years of experience designing, automating and running cloud infrastructure on **AWS, Azure and GCP**.
+I'm a **Senior DevOps Engineer** designing, automating and running cloud infrastructure on **AWS, Azure and GCP**.
 I enjoy building platforms from scratch, turning legacy setups into clean, version-controlled IaC, and making deployments boring (in a good way).
 
 - ☸️ Running and upgrading production **Kubernetes** clusters across AWS and Azure
